@@ -10,7 +10,7 @@ Uma Rede Neural Convolucional (CNN) construída **do zero** (sem transfer learni
 
 ### Opção 1 — Google Colab (recomendado)
 
-1. Acesse [colab.research.google.com](https://colab.research.google.com/).
+1. Acesse [colab.research.google.com](https://colab.research.google.com/). ([Notebook Executado](https://colab.research.google.com/drive/1hV42dtdL5kn28zdwagQPFA-v8J7-6WgR#scrollTo=d56e9032))
 2. Vá em **Arquivo → Fazer upload de notebook** e envie o arquivo `classificador-cnn-cifar10.ipynb`.
 3. Ative a GPU em **Ambiente de execução → Alterar tipo de ambiente de execução → GPU**.
 4. Rode todas as células em **Ambiente de execução → Executar tudo**.
